@@ -1,0 +1,21 @@
+{
+  "name": "tesing-0auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolroushan/tesing-0auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/coolroushan/tesing-0auth/issues"
+  },
+  "homepage": "https://github.com/coolroushan/tesing-0auth#readme"
+}
